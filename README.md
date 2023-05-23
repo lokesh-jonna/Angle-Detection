@@ -1,4 +1,6 @@
 # Angle-Detection
+This project is done in Hackathon under 24hrs in RGMCET
+
 In this repository, we are gonna calculate angle between two flat objects
 The main objective of the code is to detect objects in a live video stream and calculate the angle of the detected object.
 1. The necessary libraries, cv2 (OpenCV) and numpy, are imported.
@@ -16,3 +18,29 @@ The main objective of the code is to detect objects in a live video stream and c
 7. Another while loop is used to detect an object and calculate its angle. This loop continues until an object is detected or the user presses the 'q' key. Inside the loop, a frame is read from the video capture, and the get_angle function is called to calculate the angle. If an angle is obtained, it is printed, and the loop is terminated. The frame is displayed, and the loop breaks if the user presses the 'q' key or 's' key to save the frame as an image.
 
 8. After the loops end, the video capture is released, and all windows are closed using cap.release() and cv2.destroyAllWindows().
+
+Installed Modules :
+1. NumPy
+2. OpenCV
+3. Time
+4. Matplot
+
+USES :
+1. Real-time Object Detection
+2. Flexibility
+3. Real-time Visualization
+4. Image Saving
+5. Platform Independence
+6. Gaming
+7. VR
+8. Construction
+
+TEAM MEMBERS
+
+Lokesh J(Lead)
+Nanda Kishore R
+Tejaswini M
+Hussain S
+Subhash
+Priyanka R
+Muni Kishore P
