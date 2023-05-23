@@ -37,10 +37,10 @@ USES :
 
 TEAM MEMBERS
 
-Lokesh J(Lead)
-Nanda Kishore R
-Tejaswini M
-Hussain S
-Subhash
-Priyanka R
-Muni Kishore P
+1. Lokesh J(Lead)
+2. Nanda Kishore R
+3. Tejaswini M
+4. Hussain S
+5. Subhash
+6. Priyanka R
+7. Muni Kishore P
