@@ -27,20 +27,9 @@ Installed Modules :
 
 USES :
 1. Real-time Object Detection
-2. Flexibility
-3. Real-time Visualization
-4. Image Saving
-5. Platform Independence
-6. Gaming
-7. VR
-8. Construction
+2. Real-time Visualization
+3. Image Saving
+4. Gaming
+5. VR
+6. Construction
 
-TEAM MEMBERS
-
-1. Lokesh J(Lead)
-2. Nanda Kishore R
-3. Tejaswini M
-4. Hussain S
-5. Subhash
-6. Priyanka R
-7. Muni Kishore P
