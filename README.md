@@ -1,4 +1,4 @@
-# Object Detection with YOLO
+# Angle Detection between 2 objects 
 
 This project uses the YOLO (You Only Look Once) model to perform real-time object detection on a webcam feed. The implementation is based on the YOLOv3 model and the COCO dataset.
 
@@ -17,7 +17,7 @@ This project uses the YOLO (You Only Look Once) model to perform real-time objec
 3. Run the script:
 
     ```bash
-    python object_detection.py
+    python python_code.py
     ```
 
 4. Press 'q' to exit the application.
