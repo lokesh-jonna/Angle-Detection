@@ -7,7 +7,7 @@ This project uses the YOLO (You Only Look Once) model to perform real-time objec
 - Python
 - OpenCV (`pip install opencv-python`)
 - NumPy (`pip install numpy`)
-
+- 
 ## Getting Started
 
 1. Download the YOLOv3 weights, configuration file, and class names file from the official YOLO website or repository.
