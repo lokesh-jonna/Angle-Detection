@@ -45,13 +45,13 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is licensed under the [MIT License](LICENSE).
 
 
-Installed Modules :
+Installed Modules:
 1. NumPy
 2. OpenCV
 3. Time
 4. Matplot
 
-USES :
+USES:
 1. Real-time Object Detection
 2. Real-time Visualization
 3. Image Saving
